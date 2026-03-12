@@ -1,3 +1,6 @@
+FROM node:22-alpine
+RUN apk add --no-cache curl
+
 FROM node:22-alpine AS dependencies-env
 COPY .npmrc package.json /app/
 WORKDIR /app
