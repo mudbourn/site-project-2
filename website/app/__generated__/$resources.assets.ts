@@ -41,7 +41,7 @@
     "height": 2418
   },
   "48ffd1747ee06ec162e0a07b6315d6eacb0380c14e376ea71e60c4153a892166": {
-    "url": "/cgi/image/server-icon_xnHvB9lhMNbtrMgCgGtXn.png?format=raw",
+    "url": "/cgi/image/server-icon_xnHvB9lhMNbtrMgCgGtXn_kVcPpz1JILtdUZ7wm2GMA.png?format=raw",
     "width": 64,
     "height": 64
   },
@@ -68,6 +68,11 @@
     "url": "/cgi/image/CleanShot_2026-02-19_at_23.02.42_2x_czye14y36yiLQ-z6wHwOr.png?format=raw",
     "width": 2548,
     "height": 1904
+  },
+  "b6caf4a22e600134bed99293fce93372c3c016805944668e95c084eb219d8a89": {
+    "url": "/cgi/image/ptl7-Q3M_VwJyFabuucGEHv7nEFB_x.png?format=raw",
+    "width": 720,
+    "height": 720
   },
   "b858aa6a483c7377bd56275c8b979b420749e6d5e6326d370ce3e66ecd655507": {
     "url": "/cgi/image/CleanShot_2026-03-11_at_05.46.58_2x_Yt86QLyecIQa0WUnhEKze.png?format=raw",

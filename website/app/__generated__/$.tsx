@@ -17,7 +17,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
       export const breakpoints = [{"id":"nPRfowgVeU1-_R-igzAvZ"},{"id":"2KmmbyzrN_rWr7DmL1Up1","maxWidth":991},{"id":"eHt2503ieUAbafQHljIWW","maxWidth":767},{"id":"vyfqHPpV8NskNM5lQJBhR","maxWidth":479},{"id":"63dc0cd627f19700082762ae","minWidth":1024}];
 
       export const favIconAsset: string | undefined =
-        "server-icon_xnHvB9lhMNbtrMgCgGtXn.png";
+        "server-icon_xnHvB9lhMNbtrMgCgGtXn_kVcPpz1JILtdUZ7wm2GMA.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

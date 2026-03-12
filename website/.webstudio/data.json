@@ -17334,12 +17334,12 @@
     },
     {
       "id": "48ffd1747ee06ec162e0a07b6315d6eacb0380c14e376ea71e60c4153a892166",
-      "name": "server-icon_xnHvB9lhMNbtrMgCgGtXn.png",
+      "name": "server-icon_xnHvB9lhMNbtrMgCgGtXn_kVcPpz1JILtdUZ7wm2GMA.png",
       "projectId": "19eb339a-c9ee-4be8-a7b0-81dc46b6c4e3",
       "size": 8652,
       "type": "image",
       "format": "png",
-      "createdAt": "2026-03-11T09:27:07.345+00:00",
+      "createdAt": "2026-03-11T23:52:53.786+00:00",
       "meta": {
         "width": 64,
         "height": 64
@@ -17427,6 +17427,19 @@
       "meta": {
         "width": 2548,
         "height": 1904
+      }
+    },
+    {
+      "id": "b6caf4a22e600134bed99293fce93372c3c016805944668e95c084eb219d8a89",
+      "name": "ptl7-Q3M_VwJyFabuucGEHv7nEFB_x.png",
+      "projectId": "19eb339a-c9ee-4be8-a7b0-81dc46b6c4e3",
+      "size": 442286,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2026-03-11T23:53:00.896+00:00",
+      "meta": {
+        "width": 720,
+        "height": 720
       }
     },
     {
